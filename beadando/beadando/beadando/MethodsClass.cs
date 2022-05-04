@@ -96,6 +96,16 @@ namespace beadando
             Console.WriteLine();
         }
 
+        // 7. Változó paraméterlista: a paraméterlistában lévő számokat hozzáfüzi a listához
+        public static void variableNumberOfArguments(ConcurrentQueue<int> list, params int[] numbers)
+        {
+            foreach (int number in numbers)
+            {
+                list.Enqueue(number);
+            }
+            Console.WriteLine();
+        }
+
         // Kiiratja a lista elemeit
         public static void writeListData(ConcurrentQueue<int> lista)
         {

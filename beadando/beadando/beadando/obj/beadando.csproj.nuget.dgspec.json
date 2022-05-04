@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Istvan\\source\\repos\\beadando\\beadando\\beadando.csproj": {}
+    "C:\\Users\\Istvan\\Desktop\\beadando\\beadando\\beadando\\beadando.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Istvan\\source\\repos\\beadando\\beadando\\beadando.csproj": {
+    "C:\\Users\\Istvan\\Desktop\\beadando\\beadando\\beadando\\beadando.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Istvan\\source\\repos\\beadando\\beadando\\beadando.csproj",
+        "projectUniqueName": "C:\\Users\\Istvan\\Desktop\\beadando\\beadando\\beadando\\beadando.csproj",
         "projectName": "beadando",
-        "projectPath": "C:\\Users\\Istvan\\source\\repos\\beadando\\beadando\\beadando.csproj",
+        "projectPath": "C:\\Users\\Istvan\\Desktop\\beadando\\beadando\\beadando\\beadando.csproj",
         "packagesPath": "C:\\Users\\Istvan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Istvan\\source\\repos\\beadando\\beadando\\obj\\",
+        "outputPath": "C:\\Users\\Istvan\\Desktop\\beadando\\beadando\\beadando\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
